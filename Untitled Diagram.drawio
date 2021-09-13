@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T03:13:45.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0SQ9aXUmYaxO2d1QbxGG" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T03:38:00.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="VE_CiBs7df1jJX9ITtMv" version="15.1.4" type="github">
   <diagram id="pXMWOtE3sICo_lijbzG-" name="Page-1">
-    <mxGraphModel dx="3200" dy="1134" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="6857" dy="3176" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,60 +52,43 @@
         <mxCell id="LSy2s_8_X8NUVeBGEPmz-35" value="移动到目标点释放技能" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="4720.5" y="284.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1SJ8d1pmAY6MuEb-5NBz-1" target="1SJ8d1pmAY6MuEb-5NBz-11" edge="1">
+        <mxCell id="5Eozf7plNszG5YXXP3nq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SJ8d1pmAY6MuEb-5NBz-1" target="5Eozf7plNszG5YXXP3nq-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1SJ8d1pmAY6MuEb-5NBz-1" target="1SJ8d1pmAY6MuEb-5NBz-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-1" value="检查自己可用的技能" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-1" value="检查自己可用的技能" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-624" y="912" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1SJ8d1pmAY6MuEb-5NBz-5" value="&lt;h2&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 14px ; font-weight: normal&quot;&gt;可用技能定义：不处于CD中的技能，包括普通攻击&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-840" y="906" width="182" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1SJ8d1pmAY6MuEb-5NBz-11" target="1SJ8d1pmAY6MuEb-5NBz-14" edge="1">
+        <mxCell id="5Eozf7plNszG5YXXP3nq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SJ8d1pmAY6MuEb-5NBz-11" target="5Eozf7plNszG5YXXP3nq-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-11" value="检查每个可攻击目标的状态" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-11" value="检查每个可攻击目标的状态" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-624" y="1233" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1SJ8d1pmAY6MuEb-5NBz-13" value="&lt;h2&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 14px&quot;&gt;目前只检测血量&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-800" y="1227" width="132" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1SJ8d1pmAY6MuEb-5NBz-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-336" y="1530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1SJ8d1pmAY6MuEb-5NBz-14" target="ZI3P5AqrQ_ysWgxv9n3D-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-564.0000000000005" y="1788" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-14" value="是否存在一回合能够击杀的目标" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-624" y="1500" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1SJ8d1pmAY6MuEb-5NBz-17" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-492" y="1476" width="108" height="56" as="geometry" />
+          <mxGeometry x="-490" y="1417" width="108" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1SJ8d1pmAY6MuEb-5NBz-23" value="攻击血量最低的目标&lt;br&gt;完成回合" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-336" y="1476" width="120" height="132" as="geometry" />
+          <mxGeometry x="-336" y="1467.25" width="120" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1SJ8d1pmAY6MuEb-5NBz-30" target="1SJ8d1pmAY6MuEb-5NBz-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-30" value="检查自身攻击范围内是否存在目标" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;shadow=1;sketch=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="-630" y="1044" width="132" height="66" as="geometry" />
+        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="1SJ8d1pmAY6MuEb-5NBz-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-498" y="1077" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1SJ8d1pmAY6MuEb-5NBz-33" target="ZI3P5AqrQ_ysWgxv9n3D-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-33" value="朝向距离最近的目标移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;" parent="1" vertex="1">
+        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-33" value="朝向距离最近的目标移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-336" y="1046" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1SJ8d1pmAY6MuEb-5NBz-35" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-588" y="1138" width="108" height="56" as="geometry" />
+          <mxGeometry x="-584" y="1152" width="108" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1SJ8d1pmAY6MuEb-5NBz-36" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-462" y="1020" width="108" height="56" as="geometry" />
@@ -124,7 +107,7 @@
             <mxPoint x="192" y="1077" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;是否有BUFF技能和回血技能可用&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;是否有BUFF技能和回血技能可用&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-103" y="1025.25" width="120" height="103.5" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-2" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -161,13 +144,13 @@
             <mxPoint x="195.33333333333348" y="1212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-19" value="是否有回血技能" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-19" value="是否有回血技能" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="132" y="1016.75" width="125" height="112" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-20" target="ZI3P5AqrQ_ysWgxv9n3D-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-20" value="检测自己血量百分比" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-20" value="检测自己血量百分比" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-624" y="564" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-21" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;检测自身血量百分比，策划可配置低于多少百分比，敌人触发逃跑机制&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;" parent="1" vertex="1">
@@ -179,13 +162,13 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-24" target="ZI3P5AqrQ_ysWgxv9n3D-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-24" value="是否血量低于百分之【X】" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-24" value="是否血量低于百分之【X】" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-626.5" y="720" width="125" height="106" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-27" target="ZI3P5AqrQ_ysWgxv9n3D-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-27" value="向后转身，逃跑" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-27" value="向后转身，逃跑" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-324" y="743" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-29" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -200,7 +183,7 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-35" target="ZI3P5AqrQ_ysWgxv9n3D-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-35" value="是否有回血技能" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-35" value="是否有回血技能" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-61.5" y="720" width="109.5" height="105" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-37" value="对自身释放，结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
@@ -227,14 +210,11 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-53" target="ZI3P5AqrQ_ysWgxv9n3D-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-53" value="是否有AOE技能够同时&lt;br&gt;打到【2】名以上目标" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-53" value="是否有AOE技能够同时&lt;br&gt;打到【2】名以上目标" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="-638" y="1860" width="148" height="132" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-54" value="移动到一个位置释放此AOE技能，结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-306" y="1896" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-56" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-492" y="1476" width="108" height="56" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-57" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-456" y="1872" width="108" height="56" as="geometry" />
@@ -245,7 +225,7 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-58" target="ZI3P5AqrQ_ysWgxv9n3D-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-58" value="是否有目标在掩体外" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-58" value="是否有目标在掩体外" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="-638" y="2124" width="148" height="132" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-61" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -278,7 +258,7 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-110" target="ZI3P5AqrQ_ysWgxv9n3D-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-110" value="检查自己可用的技能" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-110" value="检查自己可用的技能" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;sketch=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="1121" y="984" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-113" target="ZI3P5AqrQ_ysWgxv9n3D-116" edge="1">
@@ -289,11 +269,11 @@
             <mxPoint x="1434.25" y="1359.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-113" value="是否有”保护型“技能可用" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-113" value="是否有”保护型“技能可用" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1102.75" y="1296" width="156.5" height="129" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-115" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;策划需要定义什么是“保护型” 技能&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="612" y="694.5" width="216" height="73" as="geometry" />
+          <mxGeometry x="852" y="1344" width="216" height="73" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-116" target="ZI3P5AqrQ_ysWgxv9n3D-130" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -301,7 +281,7 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-116" target="ZI3P5AqrQ_ysWgxv9n3D-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-116" value="&lt;span&gt;检查自身攻击范围内是否存在目标&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-116" value="&lt;span&gt;检查自身攻击范围内是否存在目标&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1127.25" y="1656" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-118" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -316,7 +296,7 @@
         <mxCell id="5Eozf7plNszG5YXXP3nq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-122" target="5Eozf7plNszG5YXXP3nq-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-122" value="“保护型”技能是否能Cover&lt;br&gt;到友军" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-122" value="“保护型”技能是否能Cover&lt;br&gt;到友军" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1434.25" y="1296" width="156.5" height="129" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-123" value="走到距离最近的友军附近，释放技能" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -325,19 +305,19 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-125" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1632" y="1299" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-126" value="向距离最近的友军移动" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-126" value="向距离最近的友军移动" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1452.5" y="1512.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-128" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1494.25" y="1428" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-130" value="选择血量百分比最低的目标进行攻击" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-130" value="选择血量百分比最低的目标进行攻击" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1434.25" y="1656" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-132" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1290.25" y="1626" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-133" value="朝最近的敌方目标进行移动" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-133" value="朝最近的敌方目标进行移动" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1127.25" y="1836" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-135" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -675,32 +655,92 @@
         <mxCell id="5Eozf7plNszG5YXXP3nq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-4" target="5Eozf7plNszG5YXXP3nq-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Eozf7plNszG5YXXP3nq-4" value="检测自己血量百分比" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5Eozf7plNszG5YXXP3nq-4" value="检测自己血量百分比" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1121" y="561.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-5" target="ZI3P5AqrQ_ysWgxv9n3D-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Eozf7plNszG5YXXP3nq-5" value="是否血量低于百分之【X】" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5Eozf7plNszG5YXXP3nq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-5" target="5Eozf7plNszG5YXXP3nq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-5" value="是否血量低于百分之【X】" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1118.5" y="700.75" width="125" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="5Eozf7plNszG5YXXP3nq-6" value="向后转身，逃跑" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1401.25" y="737.75" width="120" height="60" as="geometry" />
+        <mxCell id="5Eozf7plNszG5YXXP3nq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-6" target="5Eozf7plNszG5YXXP3nq-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Eozf7plNszG5YXXP3nq-7" value="是否有回血技能" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1669.25" y="704.75" width="109.5" height="105" as="geometry" />
+        <mxCell id="5Eozf7plNszG5YXXP3nq-6" value="向后转身，逃跑" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1398.25" y="723.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-7" target="5Eozf7plNszG5YXXP3nq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-7" target="5Eozf7plNszG5YXXP3nq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-7" value="是否有回血技能" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1664" y="701.75" width="109.5" height="105" as="geometry" />
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-8" value="对自身释放，结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1898.75" y="727.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="1860" y="723.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-9" value="结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1664" y="884.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="1658.75" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-17" target="ZI3P5AqrQ_ysWgxv9n3D-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Eozf7plNszG5YXXP3nq-17" value="“保护型”技能是否能Cover&lt;br&gt;2名或以上到友军" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5Eozf7plNszG5YXXP3nq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-17" target="5Eozf7plNszG5YXXP3nq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-17" value="“保护型”技能是否能Cover&lt;br&gt;2名或以上到友军" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1764" y="1296" width="156.5" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-27" value="走到一个合适的距离，释放技能" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2055.25" y="1330.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-29" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1932" y="1304" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-30" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="1425" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-31" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1848" y="1428" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-32" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1259.25" y="700.75" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-33" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1536" y="703.25" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-34" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1764" y="703.25" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-35" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1692" y="806.75" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-36" value="走到一个合适的距离，释放技能" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2055.25" y="1330.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-37" value="走到距离最近的友军附近，释放技能" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1782.25" y="1503.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-38" target="1SJ8d1pmAY6MuEb-5NBz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-38" value="检查自身攻击范围内是否存在目标" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-631.25" y="1019.63" width="134.5" height="114.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-44" target="ZI3P5AqrQ_ysWgxv9n3D-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-44" target="1SJ8d1pmAY6MuEb-5NBz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-44" value="是否存在一回合能够击杀的目标" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-633.63" y="1473" width="139.25" height="112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
