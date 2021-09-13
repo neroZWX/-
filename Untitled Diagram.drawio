@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T06:33:26.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="zDyDDdr9hE7ZpfcIKyzJ" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T07:00:25.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="XE-pzKKc3eWAR-22CP2p" version="15.1.4" type="github">
   <diagram id="pXMWOtE3sICo_lijbzG-" name="Page-1">
     <mxGraphModel dx="3200" dy="1134" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -213,6 +213,9 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-53" value="是否有AOE技能够同时&lt;br&gt;打到【2】名以上目标" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="-638" y="1860" width="148" height="132" as="geometry" />
         </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-54" target="5Eozf7plNszG5YXXP3nq-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-54" value="移动到一个位置释放此AOE技能，结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-306" y="1896" width="120" height="60" as="geometry" />
         </mxCell>
@@ -231,11 +234,17 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-61" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-588" y="2016" width="108" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-76" target="5Eozf7plNszG5YXXP3nq-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-76" value="移动到一个位置攻击血量比例最低的目标" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-312" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-78" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-456" y="2136" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.462;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-79" target="5Eozf7plNszG5YXXP3nq-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-79" value="选择一个血量比例最低的目标进行攻击" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-624" y="2400" width="120" height="60" as="geometry" />
@@ -740,6 +749,9 @@
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-50" value="检查自身攻击范围内是否存在目标" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1102.75" y="1619.25" width="156.5" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eozf7plNszG5YXXP3nq-54" value="&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;如果附近有掩体，并且进入掩体后不会减少攻击目标的数量，那么AI会优先进入到掩体再释放技能&lt;br&gt;&lt;br&gt;全掩体优先级大于半掩体&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="1991.25" width="326" height="132" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
