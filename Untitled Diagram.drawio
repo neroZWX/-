@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T07:43:47.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="jpdhSOHzsUoUmOl9hQWu" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T07:50:36.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="lPya9RskdFZJx9O2OGeG" version="15.3.0" type="github">
   <diagram id="pXMWOtE3sICo_lijbzG-" name="Page-1">
     <mxGraphModel dx="2842" dy="934" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -851,6 +851,9 @@
         <mxCell id="wYhGPvurgbteyp2peCEH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYhGPvurgbteyp2peCEH-36" target="wYhGPvurgbteyp2peCEH-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wYhGPvurgbteyp2peCEH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYhGPvurgbteyp2peCEH-36" target="wYhGPvurgbteyp2peCEH-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-36" value="（原地）是否还存在其它可攻击目标" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="96.37" y="1899.25" width="139.25" height="112" as="geometry" />
         </mxCell>
@@ -862,6 +865,12 @@
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-41" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="144" y="2011.25" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="wYhGPvurgbteyp2peCEH-42" value="攻击目标&lt;br&gt;结束回合" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="348" y="1925.25" width="115.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wYhGPvurgbteyp2peCEH-44" value="&lt;h2 style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;此时如果有多个目标可攻击，那么优先攻击血量百分比最低的目标&lt;/font&gt;&lt;/h2&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如血量百分比一样，那优先攻击距离最近的&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如距离，血量一样，随机选取&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317.25" y="1991.25" width="270.75" height="156.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
