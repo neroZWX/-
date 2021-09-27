@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T09:38:57.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="cz2Kzd6hBjTNsaWV0iLF" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T10:06:25.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="2z7xLTqO3xYr3DuszGfF" version="15.3.0" type="github">
   <diagram id="pXMWOtE3sICo_lijbzG-" name="Page-1">
     <mxGraphModel dx="2842" dy="934" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -749,7 +749,7 @@
           <mxGeometry x="1102.75" y="1619.25" width="156.5" height="129" as="geometry" />
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-54" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;如果附近有掩体，并且进入掩体后不会减少攻击目标的数量，那么AI会优先进入到掩体再释放技能&lt;br&gt;&lt;br&gt;全掩体优先级大于半掩体&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="244.75" y="3072" width="326" height="132" as="geometry" />
+          <mxGeometry x="258" y="3084" width="326" height="132" as="geometry" />
         </mxCell>
         <mxCell id="4xm8Lop-143PEkt4vs4y-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;攻击单体目标时，AI优先选择则单体技能&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;如没有单体技能则普通攻击&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;如果没有单体技能或者不可用时，则会使用AOE技能&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;如有多个单体技能可释放，则随机选取一个进行释放&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1080" y="2724" width="355" height="180" as="geometry" />
