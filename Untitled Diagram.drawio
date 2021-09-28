@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T10:08:01.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="UhKDD7ZkZr08SL6m13G5" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T10:10:00.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="436C9iqr5IQ78c6Gk-94" version="15.3.0" type="github">
   <diagram id="pXMWOtE3sICo_lijbzG-" name="Page-1">
     <mxGraphModel dx="2842" dy="934" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -632,6 +632,9 @@
             <mxPoint x="2543.985294117647" y="2403.2499999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-120" target="UMMjiWzVSXxVOQyZBQmb-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6_bY_sh62_LnZEufbwjD-120" value="是否AOE”增益“技能可&lt;br&gt;Cover到2名或以上&lt;br&gt;友军" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2466.25" y="2135.25" width="156.5" height="129" as="geometry" />
         </mxCell>
@@ -756,7 +759,7 @@
           <mxGeometry x="-1080" y="2724" width="355" height="180" as="geometry" />
         </mxCell>
         <mxCell id="zqsOAYbOXbSEbbk0vTO7-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;AI默认距离最近的友军为目标，向其移动&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;当单体增益技能可cover到的目标有多个时那么会有优先级，优先级的评定根据 技能和目标的属性来选择， 例：&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;A技能 -----&amp;gt; 选择攻击力最高的友军释放&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;B技能 -----&amp;gt; 选择防御力最高的友军释放&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;C技能 -----&amp;gt;&amp;nbsp; 选择气血值最大的友军释放&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2877.75" y="2141.25" width="334.5" height="260.75" as="geometry" />
+          <mxGeometry x="2792.5" y="2046.5" width="339.5" height="281.5" as="geometry" />
         </mxCell>
         <mxCell id="zqsOAYbOXbSEbbk0vTO7-2" value="&lt;h2 style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;如果存在多个目标能够一回合被击杀，那么AI将锁定血量百分比最低的一个目标&lt;/font&gt;&lt;/h2&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如存在血量百分比一样的目标&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;AI将锁定距离它最近的单位&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如果存在 血量，距离都一样的目标，那么AI随机锁定一名目标&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-384" y="1800" width="297" height="177.63" as="geometry" />
@@ -1134,6 +1137,9 @@
         </mxCell>
         <mxCell id="UMMjiWzVSXxVOQyZBQmb-81" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2897.75" y="1960.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-85" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2627" y="2149.75" width="108" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
