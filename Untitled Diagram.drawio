@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T08:24:03.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="j_mtV6dgn2KKqWwGOOlF" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T03:52:14.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="XePwXpFzdrbVtsggpUoE" version="15.3.8" type="github">
   <diagram id="pXMWOtE3sICo_lijbzG-" name="Page-1">
-    <mxGraphModel dx="2591" dy="794" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3539" dy="1323" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
         <mxCell id="wYhGPvurgbteyp2peCEH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1SJ8d1pmAY6MuEb-5NBz-33" target="ZI3P5AqrQ_ysWgxv9n3D-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-33" value="选定目标点，朝向目标点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="1SJ8d1pmAY6MuEb-5NBz-33" value="锁定位置点，朝向位置点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-354" y="1215.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1SJ8d1pmAY6MuEb-5NBz-35" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -120,10 +120,10 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-9" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-223.5" y="1028.13" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-10" value="对目标（包括自己）释放治疗技能" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-10" value="对选定的目标（包括自己）释放治疗技能" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="288" y="1374.75" width="130.75" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-12" value="对目标释放辅助技能" style="whiteSpace=wrap;html=1;shadow=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-12" value="对选定的目标释放技能" style="whiteSpace=wrap;html=1;shadow=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-122" y="1477.1200000000001" width="134" height="59.25" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-14" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -137,7 +137,7 @@
             <mxPoint x="-55.666666666666515" y="1214.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-19" target="UMMjiWzVSXxVOQyZBQmb-90">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-19" target="UMMjiWzVSXxVOQyZBQmb-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-19" value="是否有回血技能" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -182,17 +182,11 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-35" value="是否有回血技能" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-61.5" y="720" width="109.5" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-37" target="wYhGPvurgbteyp2peCEH-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-37" value="攻击阶段1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="168" y="743" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-39" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="36" y="720" width="108" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-40" target="wYhGPvurgbteyp2peCEH-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-40" value="攻击阶段2" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-66.75" y="900" width="120" height="60" as="geometry" />
@@ -215,7 +209,7 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-53" value="是否有AOE技能够同时&lt;br&gt;打到【2】名以上目标" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="-658" y="2253.25" width="148" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-54" value="释放此AOE技能，结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-54" value="攻击目标&lt;br&gt;结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="300" y="2286.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-57" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -238,9 +232,6 @@
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-78" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-534" y="2532" width="108" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="5Eozf7plNszG5YXXP3nq-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.462;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-79" target="5Eozf7plNszG5YXXP3nq-54" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-79" value="对锁定的目标进行攻击" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-643.99" y="3228" width="120" height="60" as="geometry" />
@@ -289,7 +280,7 @@
         <mxCell id="5Eozf7plNszG5YXXP3nq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-122" target="5Eozf7plNszG5YXXP3nq-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-122" target="5Eozf7plNszG5YXXP3nq-50">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZI3P5AqrQ_ysWgxv9n3D-122" target="5Eozf7plNszG5YXXP3nq-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-122" value="“保护型”技能是否能Cover&lt;br&gt;到友军" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" parent="1" vertex="1">
@@ -298,20 +289,11 @@
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-125" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1632" y="1299" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-126" value="向距离最近的友军移动" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="1698" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-128" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1482.75" y="1445" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-130" value="攻击目标&lt;br&gt;结束回合" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="2055.25" y="2055.25" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-132" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1253" y="2029.25" width="108" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-133" value="结束回合" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1123.5" y="2588" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZI3P5AqrQ_ysWgxv9n3D-135" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1145" y="2160.75" width="108" height="56" as="geometry" />
@@ -378,10 +360,10 @@
         <mxCell id="6_bY_sh62_LnZEufbwjD-4" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2537.75" y="1071.5" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-5" target="UMMjiWzVSXxVOQyZBQmb-31">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-5" target="UMMjiWzVSXxVOQyZBQmb-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6_bY_sh62_LnZEufbwjD-5" value="锁定目标，向最近的敌军移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="6_bY_sh62_LnZEufbwjD-5" value="锁定位置点，向位置点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2885.75" y="231.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6_bY_sh62_LnZEufbwjD-7" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -443,7 +425,7 @@
         <mxCell id="6_bY_sh62_LnZEufbwjD-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-26" target="6_bY_sh62_LnZEufbwjD-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-26" target="UMMjiWzVSXxVOQyZBQmb-40">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-26" target="UMMjiWzVSXxVOQyZBQmb-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6_bY_sh62_LnZEufbwjD-26" value="”攻击型“技能&lt;br&gt;范围内有敌军" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -464,7 +446,7 @@
         <mxCell id="6_bY_sh62_LnZEufbwjD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-46" target="6_bY_sh62_LnZEufbwjD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-46" target="UMMjiWzVSXxVOQyZBQmb-35">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-46" target="UMMjiWzVSXxVOQyZBQmb-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6_bY_sh62_LnZEufbwjD-46" value="是否可移动范围内&lt;br&gt;有掩体" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -479,8 +461,8 @@
         <mxCell id="6_bY_sh62_LnZEufbwjD-52" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2976.5" y="360" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="6_bY_sh62_LnZEufbwjD-54" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px ; font-weight: normal&quot;&gt;锁定的目标为最近的敌军&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px ; font-weight: normal&quot;&gt;移动距离：最大移动距离&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2652.5" y="210.5" width="197.25" height="96" as="geometry" />
+        <mxCell id="6_bY_sh62_LnZEufbwjD-54" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px ; font-weight: normal&quot;&gt;锁定的位置点为最近的敌军&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px ; font-weight: normal&quot;&gt;移动距离：最大移动距离&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2652.5" y="210.5" width="203.5" height="113.5" as="geometry" />
         </mxCell>
         <mxCell id="6_bY_sh62_LnZEufbwjD-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6_bY_sh62_LnZEufbwjD-55" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -502,16 +484,16 @@
         <mxCell id="6_bY_sh62_LnZEufbwjD-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.831;entryY=0.29;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-62" target="6_bY_sh62_LnZEufbwjD-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-62" target="UMMjiWzVSXxVOQyZBQmb-45">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-62" target="UMMjiWzVSXxVOQyZBQmb-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6_bY_sh62_LnZEufbwjD-62" value="是否有”治疗“技能可用" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="3399.25" y="785.75" width="156.5" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-68" target="UMMjiWzVSXxVOQyZBQmb-50">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-68" target="UMMjiWzVSXxVOQyZBQmb-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-68" target="UMMjiWzVSXxVOQyZBQmb-56">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-68" target="UMMjiWzVSXxVOQyZBQmb-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6_bY_sh62_LnZEufbwjD-68" value="是否有”增益”技能&lt;br&gt;可用" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -547,16 +529,16 @@
         <mxCell id="6_bY_sh62_LnZEufbwjD-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6_bY_sh62_LnZEufbwjD-83" target="6_bY_sh62_LnZEufbwjD-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-83" target="UMMjiWzVSXxVOQyZBQmb-62">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-83" target="UMMjiWzVSXxVOQyZBQmb-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6_bY_sh62_LnZEufbwjD-83" value="是否有AOE”治疗“技能可用" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="3577.25" y="1457.25" width="156.5" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-88" target="UMMjiWzVSXxVOQyZBQmb-62">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-88" target="UMMjiWzVSXxVOQyZBQmb-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-88">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-88" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4068" y="1521.294117647059" as="targetPoint" />
           </mxGeometry>
@@ -573,7 +555,7 @@
         <mxCell id="6_bY_sh62_LnZEufbwjD-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-93" target="6_bY_sh62_LnZEufbwjD-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-93" target="UMMjiWzVSXxVOQyZBQmb-62">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-93" target="UMMjiWzVSXxVOQyZBQmb-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6_bY_sh62_LnZEufbwjD-93" value="是否存在多个友军血量低于百分之【X】" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -597,7 +579,7 @@
         <mxCell id="6_bY_sh62_LnZEufbwjD-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="6_bY_sh62_LnZEufbwjD-101" target="6_bY_sh62_LnZEufbwjD-120" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-101" target="UMMjiWzVSXxVOQyZBQmb-79">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-101" target="UMMjiWzVSXxVOQyZBQmb-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6_bY_sh62_LnZEufbwjD-101" value="是否有AOE”增益“技能可用" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -632,7 +614,7 @@
             <mxPoint x="2543.985294117647" y="2403.2499999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_bY_sh62_LnZEufbwjD-120" target="UMMjiWzVSXxVOQyZBQmb-79">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6_bY_sh62_LnZEufbwjD-120" target="UMMjiWzVSXxVOQyZBQmb-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6_bY_sh62_LnZEufbwjD-120" value="是否AOE”增益“技能可&lt;br&gt;Cover到2名或以上&lt;br&gt;友军" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -674,27 +656,21 @@
         <mxCell id="5Eozf7plNszG5YXXP3nq-6" value="向后转身，逃跑" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1332" y="723.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-7" target="UMMjiWzVSXxVOQyZBQmb-1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5Eozf7plNszG5YXXP3nq-7" target="UMMjiWzVSXxVOQyZBQmb-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-7" target="UMMjiWzVSXxVOQyZBQmb-4">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5Eozf7plNszG5YXXP3nq-7" target="UMMjiWzVSXxVOQyZBQmb-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-7" value="是否有回血技能" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1597.75" y="701.75" width="109.5" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="5Eozf7plNszG5YXXP3nq-8" value="对自身释放，结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1992" y="724.25" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5Eozf7plNszG5YXXP3nq-9" value="结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1592.5" y="1014.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5Eozf7plNszG5YXXP3nq-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1842.25" y="1503.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-17" target="UMMjiWzVSXxVOQyZBQmb-7">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5Eozf7plNszG5YXXP3nq-17" target="UMMjiWzVSXxVOQyZBQmb-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-17" value="“保护型”技能是否能Cover&lt;br&gt;2名或以上到友军" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" parent="1" vertex="1">
@@ -714,12 +690,6 @@
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-35" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1620" y="806.75" width="108" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="5Eozf7plNszG5YXXP3nq-36" value="走到一个合适的距离，释放技能" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="2189.75" y="1491.75" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5Eozf7plNszG5YXXP3nq-37" value="释放技能&lt;br&gt;结束回合" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1782.25" y="1783.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5Eozf7plNszG5YXXP3nq-38" target="1SJ8d1pmAY6MuEb-5NBz-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -746,23 +716,23 @@
             <mxPoint x="1181" y="2273.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Eozf7plNszG5YXXP3nq-50" target="UMMjiWzVSXxVOQyZBQmb-16">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5Eozf7plNszG5YXXP3nq-50" target="UMMjiWzVSXxVOQyZBQmb-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-50" value="检查自身攻击范围内是否存在目标" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1102.75" y="2020.75" width="156.5" height="129" as="geometry" />
         </mxCell>
         <mxCell id="5Eozf7plNszG5YXXP3nq-54" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;如果附近有掩体，并且进入掩体后不会减少攻击目标的数量，那么AI会优先进入到掩体再释放技能&lt;br&gt;&lt;br&gt;全掩体优先级大于半掩体&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="258" y="3084" width="326" height="132" as="geometry" />
+          <mxGeometry x="-1068" y="2858" width="326" height="132" as="geometry" />
         </mxCell>
         <mxCell id="4xm8Lop-143PEkt4vs4y-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;攻击单体目标时，AI优先选择则单体技能&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;如没有单体技能则普通攻击&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;如果没有单体技能或者不可用时，则会使用AOE技能&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;如有多个单体技能可释放，则随机选取一个进行释放&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1080" y="2724" width="355" height="180" as="geometry" />
+          <mxGeometry x="-1068" y="2652" width="355" height="180" as="geometry" />
         </mxCell>
         <mxCell id="zqsOAYbOXbSEbbk0vTO7-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;AI默认距离最近的友军为目标，向其移动&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;当单体增益技能可cover到的目标有多个时那么会有优先级，优先级的评定根据 技能和目标的属性来选择， 例：&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;A技能 -----&amp;gt; 选择攻击力最高的友军释放&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;B技能 -----&amp;gt; 选择防御力最高的友军释放&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;C技能 -----&amp;gt;&amp;nbsp; 选择气血值最大的友军释放&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2792.5" y="2046.5" width="339.5" height="281.5" as="geometry" />
         </mxCell>
         <mxCell id="zqsOAYbOXbSEbbk0vTO7-2" value="&lt;h2 style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;如果存在多个目标能够一回合被击杀，那么AI将锁定血量百分比最低的一个目标&lt;/font&gt;&lt;/h2&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如存在血量百分比一样的目标&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;AI将锁定距离它最近的单位&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如果存在 血量，距离都一样的目标，那么AI随机锁定一名目标&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-384" y="1800" width="297" height="177.63" as="geometry" />
+          <mxGeometry x="-412.5" y="1814" width="297" height="177.63" as="geometry" />
         </mxCell>
         <mxCell id="eaivQGMKGmpIsubUFw-p-2" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3337.25" y="916" width="108" height="56" as="geometry" />
@@ -773,63 +743,57 @@
         <mxCell id="eaivQGMKGmpIsubUFw-p-4" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;AI会走到一个COVER目标做多的位置进行释放&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;如果有多个群体治疗技能，优先选择治疗量最多的技能&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;如果治疗量一样，则随机选择&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4224" y="1491.75" width="276" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-2" value="对自身释放，结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="368" y="743" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-4" value="结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="133.25" y="900" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-6" value="结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="-354" y="1474.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-11" target="wYhGPvurgbteyp2peCEH-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-11" value="选定目标，技能，朝向目标友军移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-11" value="选定目标，技能， 位置点，向位置点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-122" y="1215.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.454;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wYhGPvurgbteyp2peCEH-12" target="ZI3P5AqrQ_ysWgxv9n3D-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-12" value="攻击阶段3" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-12" value="攻击阶段1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-122" y="1344" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-15" target="wYhGPvurgbteyp2peCEH-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-15" value="选定目标，技能， 朝向目标友军移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-15" value="选定目标，技能， 位置点，向位置点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="288" y="1047.0100000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wYhGPvurgbteyp2peCEH-18">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="348.58823529411757" y="1368" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-18" value="攻击阶段" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-18" value="攻击阶段1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="288" y="1215.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-22" target="wYhGPvurgbteyp2peCEH-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-22" value="锁定目标，技能，朝向目标移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-22" value="选定目标，技能， 位置点，向位置点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-362" y="1728" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-23" target="wYhGPvurgbteyp2peCEH-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-23" value="攻击阶段" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-23" value="攻击阶段3" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-144" y="1728" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-27" target="wYhGPvurgbteyp2peCEH-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-27" value="锁定目标点，技能，移动到此目标点位置上" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-27" value="选定目标，技能， 位置点，向位置点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-399.5" y="2286.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-29" target="wYhGPvurgbteyp2peCEH-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-29" value="攻击阶段" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-29" value="攻击阶段3" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-222" y="2286.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-32" target="1SJ8d1pmAY6MuEb-5NBz-23" edge="1">
@@ -866,7 +830,7 @@
           <mxGeometry x="348" y="1925.25" width="115.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-44" value="&lt;h2 style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;此时如果有多个目标可攻击，那么优先攻击血量百分比最低的目标&lt;/font&gt;&lt;/h2&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如血量百分比一样，那优先攻击距离最近的&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如距离，血量一样，随机选取&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="2396.5" width="270.75" height="156.75" as="geometry" />
+          <mxGeometry x="408" y="2772" width="270.75" height="156.75" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-46" target="ZI3P5AqrQ_ysWgxv9n3D-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -886,13 +850,13 @@
         <mxCell id="wYhGPvurgbteyp2peCEH-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-52" target="wYhGPvurgbteyp2peCEH-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-52" value="锁定目标，移动到一个最佳位置" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-52" value="选定目标，技能， 位置点，向位置点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-420" y="2553.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-54" target="wYhGPvurgbteyp2peCEH-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-54" value="攻击阶段" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-54" value="攻击阶段3" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-229.5" y="2553.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-56" target="ZI3P5AqrQ_ysWgxv9n3D-76" edge="1">
@@ -910,13 +874,13 @@
         <mxCell id="wYhGPvurgbteyp2peCEH-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-60" target="wYhGPvurgbteyp2peCEH-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-60" value="锁定目标，移动到一个最佳位置" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-60" value="选定目标，技能， 位置点，向位置点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-644" y="2729.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-62" target="wYhGPvurgbteyp2peCEH-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYhGPvurgbteyp2peCEH-62" value="攻击阶段" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="wYhGPvurgbteyp2peCEH-62" value="攻击阶段3" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-644" y="2880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYhGPvurgbteyp2peCEH-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wYhGPvurgbteyp2peCEH-65" target="ZI3P5AqrQ_ysWgxv9n3D-79" edge="1">
@@ -960,304 +924,269 @@
         <mxCell id="wYhGPvurgbteyp2peCEH-81" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-480" y="3012" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-1" target="5Eozf7plNszG5YXXP3nq-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-1" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-1" value="攻击阶段1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1800.5" y="723.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-4" target="5Eozf7plNszG5YXXP3nq-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-4" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-4" value="攻击阶段2" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1592.5" y="880.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-7" target="UMMjiWzVSXxVOQyZBQmb-9">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-7" target="UMMjiWzVSXxVOQyZBQmb-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-7" value="移动到一个合适的距离" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-7" value="选定目标，技能， 位置点，向位置点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2004" y="1330.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-9" target="5Eozf7plNszG5YXXP3nq-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-9" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-9" value="攻击阶段1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2189.75" y="1330.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-12" target="UMMjiWzVSXxVOQyZBQmb-13">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-12" target="UMMjiWzVSXxVOQyZBQmb-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-12" value="朝距离最近的友军移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-12" value="锁定位置点，朝距离最近的友军移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1782.25" y="1507.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-13" target="5Eozf7plNszG5YXXP3nq-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-13" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-13" value="攻击阶段1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1782.25" y="1642.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-16" target="UMMjiWzVSXxVOQyZBQmb-20">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-16" target="UMMjiWzVSXxVOQyZBQmb-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-16" value="选定目标，朝目标移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-16" value="选定目标，技能， 位置点，向位置点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1380" y="2055.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-19" value="&lt;h2 style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;AI将锁定血量百分比最低的一个目标&lt;/font&gt;&lt;/h2&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如存在血量百分比一样的目标，&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(51 , 0 , 26)&quot;&gt;AI将锁定距离它最近的单位&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如果存在 血量，距离都一样的目标，那么AI随机锁定一名目标&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-19" value="&lt;h2 style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;AI将锁定血量百分比最低的一个目标&lt;/font&gt;&lt;/h2&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如存在血量百分比一样的目标，&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(51 , 0 , 26)&quot;&gt;AI将锁定距离它最近的单位&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#33001a&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;如果存在 血量，距离都一样的目标，那么AI随机锁定一名目标&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1344" y="2146.81" width="276" height="154.38" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-20" target="UMMjiWzVSXxVOQyZBQmb-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-20" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-20" value="攻击阶段3" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1608" y="2055.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-23" target="ZI3P5AqrQ_ysWgxv9n3D-130">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-27" target="UMMjiWzVSXxVOQyZBQmb-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-23" value="锁定的目标是否还可被攻击" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1816.75" y="2029.25" width="139.25" height="112" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-26" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1947.25" y="2029.25" width="108" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-27" target="UMMjiWzVSXxVOQyZBQmb-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-27" value="选定目标，朝目标移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-27" value="锁定位置点，朝距离最近的敌军移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1123.5" y="2277.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-28" target="ZI3P5AqrQ_ysWgxv9n3D-133">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-28" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-28" value="攻击阶段2" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1123.5" y="2427.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-31" target="UMMjiWzVSXxVOQyZBQmb-33">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-31" target="UMMjiWzVSXxVOQyZBQmb-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-31" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-31" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3089.25" y="231.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-33" value="结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-33" value="结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3305.75" y="231.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-35" target="UMMjiWzVSXxVOQyZBQmb-36">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-35" target="UMMjiWzVSXxVOQyZBQmb-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-35" value="锁定目标，向最近的掩体移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-35" value="锁定位置点，向最近的掩体移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3084.5" y="404.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-36" target="6_bY_sh62_LnZEufbwjD-50">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-36" target="6_bY_sh62_LnZEufbwjD-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-36" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-36" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3267.75" y="405" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-40" target="UMMjiWzVSXxVOQyZBQmb-42">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-40" target="UMMjiWzVSXxVOQyZBQmb-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-40" value="锁定目标，向血量百分比最低目标移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-40" value="锁定目标，向血量百分比最低目标移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3389.75" y="608.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-42" target="6_bY_sh62_LnZEufbwjD-30">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-42" target="6_bY_sh62_LnZEufbwjD-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-42" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-42" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3571.25" y="608.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-45" target="UMMjiWzVSXxVOQyZBQmb-47">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-45" target="UMMjiWzVSXxVOQyZBQmb-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-45" value="原地不动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-45" value="原地不动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3672" y="820.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-47" target="6_bY_sh62_LnZEufbwjD-73">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-47" target="6_bY_sh62_LnZEufbwjD-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-47" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-47" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3900" y="820.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-50" target="UMMjiWzVSXxVOQyZBQmb-51">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-50" target="UMMjiWzVSXxVOQyZBQmb-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-50" value="原地不动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-50" value="原地不动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3432" y="1043.7500000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-51" target="6_bY_sh62_LnZEufbwjD-76">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-51" target="6_bY_sh62_LnZEufbwjD-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-51" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-51" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3649.25" y="1044" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-56" target="UMMjiWzVSXxVOQyZBQmb-58">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-56" target="UMMjiWzVSXxVOQyZBQmb-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-56" value="锁定目标，向最近的友军移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-56" value="锁定目标，向最近的友军移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3298" y="1196.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-58" target="6_bY_sh62_LnZEufbwjD-57">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-58" target="6_bY_sh62_LnZEufbwjD-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-58" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-58" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3552" y="1196.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-62" target="UMMjiWzVSXxVOQyZBQmb-67">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-62" target="UMMjiWzVSXxVOQyZBQmb-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-62" value="锁定目标，向目标移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-62" value="锁定目标，向目标移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3417.5" y="1698" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-66" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;目标为血量最低的单位&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;包括自身。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;移动到目标旁边1单元内&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;如果目标是自身则原地不动&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-66" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;目标为血量最低的单位&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;包括自身。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;移动到目标旁边1单元内&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;如果目标是自身则原地不动&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3196.25" y="1742.25" width="214.75" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-67" target="6_bY_sh62_LnZEufbwjD-105">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-67" target="6_bY_sh62_LnZEufbwjD-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-67" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-67" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3417.5" y="1819.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-73" target="UMMjiWzVSXxVOQyZBQmb-76">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-73" target="UMMjiWzVSXxVOQyZBQmb-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-73" value="锁定目标点，向目标点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-73" value="锁定目标点，向目标点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="4069.25" y="1489.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-76" target="ZI3P5AqrQ_ysWgxv9n3D-154">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-76" target="ZI3P5AqrQ_ysWgxv9n3D-154" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-76" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-76" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="4069.25" y="1647.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-79" target="UMMjiWzVSXxVOQyZBQmb-81">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-79" target="UMMjiWzVSXxVOQyZBQmb-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-79" value="锁定目标，向目标移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-79" value="锁定目标，向目标移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2712" y="1960.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-81" target="6_bY_sh62_LnZEufbwjD-125">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-81" target="6_bY_sh62_LnZEufbwjD-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-81" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-81" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2897.75" y="1960.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-85" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-85" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2627" y="2149.75" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-86" target="UMMjiWzVSXxVOQyZBQmb-87">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-86" target="UMMjiWzVSXxVOQyZBQmb-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-86" value="锁定目标点，向目标点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-86" value="锁定目标点，向目标点移动" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2485" y="2405.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-87" target="ZI3P5AqrQ_ysWgxv9n3D-168">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-87" target="ZI3P5AqrQ_ysWgxv9n3D-168" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-87" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-87" value="攻击阶段" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2485" y="2556" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-90" target="wYhGPvurgbteyp2peCEH-15">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-90" target="wYhGPvurgbteyp2peCEH-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-90" target="wYhGPvurgbteyp2peCEH-11">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-90" target="wYhGPvurgbteyp2peCEH-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-90" value="是否有目标血量低于百分之【X】" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-90" value="是否有目标血量低于百分之【X】" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="84" y="1022.6300000000001" width="125" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-93" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-93" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="192" y="1022.6300000000001" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-95" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-95" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="72" y="1131.63" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-96" target="UMMjiWzVSXxVOQyZBQmb-97">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-96" target="UMMjiWzVSXxVOQyZBQmb-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-96" value="攻击阶段1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="96.37" y="3594.5099999999998" width="120" height="60" as="geometry" />
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-96" value="攻击阶段1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1013.74" y="3030.5099999999998" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-97" value="对自身释放技能，结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="96.37" y="3745.52" width="120" height="60" as="geometry" />
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-97" value="对选定的目标释放技能" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="1013.74" y="3181.52" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-99" target="UMMjiWzVSXxVOQyZBQmb-100">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-99" target="UMMjiWzVSXxVOQyZBQmb-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-99" value="攻击阶段2" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="324" y="3594.51" width="120" height="60" as="geometry" />
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-99" value="攻击阶段2" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1241.37" y="3030.51" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-100" value="直接结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="324" y="3745.5200000000004" width="120" height="60" as="geometry" />
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-100" value="直接结束回合" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="1241.37" y="3181.5200000000004" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-102" target="UMMjiWzVSXxVOQyZBQmb-103">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-105" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;选择血量百分比最低的友军为目标，如有多个血量百分比一样低的目标，那么选择距离最近的为最终目标&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="288" y="906" width="234.5" height="127.12" as="geometry" />
+        </mxCell>
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-107" target="UMMjiWzVSXxVOQyZBQmb-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-102" value="攻击阶段3" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="538.5" y="3594.51" width="120" height="60" as="geometry" />
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-107" value="攻击阶段3" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1502.99" y="3030.51" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-103" value="对选定的目标释放技能" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="522.5" y="3749" width="156" height="69" as="geometry" />
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-108" value="攻击目标&lt;br&gt;完成回合" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1805" y="3200.51" width="115.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-105" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;选择血量百分比最低的友军为目标，如有多个血量百分比一样低的目标，那么选择距离最近的为最终目标&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="288" y="916" width="234.5" height="127.12" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-107" target="UMMjiWzVSXxVOQyZBQmb-113">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-113" target="UMMjiWzVSXxVOQyZBQmb-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-107" value="攻击阶段4" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="813.62" y="3588" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-108" value="攻击目标&lt;br&gt;完成回合" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1115.63" y="3758" width="115.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-113" target="UMMjiWzVSXxVOQyZBQmb-108">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-113" target="UMMjiWzVSXxVOQyZBQmb-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-113" target="UMMjiWzVSXxVOQyZBQmb-117">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-113" value="锁定的目标是否还可被攻击" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1493.37" y="3174.51" width="139.25" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-114" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1663" y="3174.51" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-117" target="UMMjiWzVSXxVOQyZBQmb-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-113" value="锁定的目标是否还可被攻击" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="804" y="3732" width="139.25" height="112" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-114" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="973.63" y="3732" width="108" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-117" target="UMMjiWzVSXxVOQyZBQmb-119">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-117" target="UMMjiWzVSXxVOQyZBQmb-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-117" target="UMMjiWzVSXxVOQyZBQmb-121">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-117" value="（原地）是否还存在其它可攻击目标" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1493.37" y="3371.76" width="139.25" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-118" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1541" y="3291.76" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-119" value="结束回合" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1505.24" y="3547.76" width="115.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-120" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1541" y="3483.76" width="108" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-121" value="攻击目标&lt;br&gt;结束回合" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1745" y="3397.76" width="115.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-123" target="UMMjiWzVSXxVOQyZBQmb-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-117" value="（原地）是否还存在其它可攻击目标" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="804" y="3929.25" width="139.25" height="112" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-118" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="851.63" y="3849.25" width="108" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-119" value="结束回合" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="815.87" y="4105.25" width="115.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-120" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="851.63" y="4041.25" width="108" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-121" value="攻击目标&lt;br&gt;结束回合" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1055.63" y="3955.25" width="115.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-123" target="UMMjiWzVSXxVOQyZBQmb-96">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-123" target="UMMjiWzVSXxVOQyZBQmb-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-123" target="UMMjiWzVSXxVOQyZBQmb-99">
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMMjiWzVSXxVOQyZBQmb-123" target="UMMjiWzVSXxVOQyZBQmb-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-123">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="601" y="3588" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="UMMjiWzVSXxVOQyZBQmb-123" value="攻击阶段" style="whiteSpace=wrap;html=1;shadow=1;rounded=1;strokeWidth=2;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="1361.37" y="2772" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMMjiWzVSXxVOQyZBQmb-123" target="UMMjiWzVSXxVOQyZBQmb-107">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FX0YfmDrIzRt-EXn_kgp-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;如果选定的目标不存在&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;那么AI将会对自己释放已选定好的技能&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25.25" y="1395.63" width="234.5" height="127.12" as="geometry" />
         </mxCell>
-        <mxCell id="UMMjiWzVSXxVOQyZBQmb-123" value="攻击阶段" style="whiteSpace=wrap;html=1;shadow=1;rounded=1;strokeWidth=2;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="444" y="3336" width="120" height="60" as="geometry" />
+        <mxCell id="FX0YfmDrIzRt-EXn_kgp-2" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1622.99" y="3384" width="108" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
