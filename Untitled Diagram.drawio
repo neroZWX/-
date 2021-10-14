@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T13:22:46.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="ec2pDvgBd6fJlSluKrwc" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T10:56:52.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="6ZdOZuc2Oh6sURDL2we6" version="15.3.8" type="github" pages="2">
   <diagram id="pXMWOtE3sICo_lijbzG-" name="Page-1">
-    <mxGraphModel dx="2842" dy="934" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="6857" dy="3176" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -722,7 +722,7 @@
         <mxCell id="eaivQGMKGmpIsubUFw-p-2" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3337.25" y="916" width="108" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="eaivQGMKGmpIsubUFw-p-3" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;锁定位置点： 向最近的友军移动&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;移动方式： 最大移动距离&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="eaivQGMKGmpIsubUFw-p-3" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;锁定位置点： 向最近的友军移动&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;如没有友军，则向敌军移动&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;移动方式： 最大移动距离&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3257.25" y="1262" width="276" height="102" as="geometry" />
         </mxCell>
         <mxCell id="eaivQGMKGmpIsubUFw-p-4" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;AI会走到一个COVER目标做多的位置进行释放&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;如果有多个群体治疗技能，优先选择治疗量最多的技能&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;如果治疗量一样，则随机选择&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -1147,7 +1147,7 @@
           <mxGeometry x="1361.37" y="2772" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FX0YfmDrIzRt-EXn_kgp-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;如果选定的目标不存在&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;那么AI将会对自己释放已选定好的技能&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="25.25" y="1395.63" width="234.5" height="127.12" as="geometry" />
+          <mxGeometry x="25.25" y="1409.44" width="234.5" height="127.12" as="geometry" />
         </mxCell>
         <mxCell id="FX0YfmDrIzRt-EXn_kgp-2" value="&lt;font style=&quot;font-size: 19px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1622.99" y="3384" width="108" height="56" as="geometry" />
@@ -1158,6 +1158,14 @@
         <mxCell id="FX0YfmDrIzRt-EXn_kgp-4" value="&lt;font style=&quot;font-size: 19px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1151.25" y="827" width="108" height="56" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ldURivq1tl-MJtXSQXtW" name="Page-2">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="Of5p8BdedfkJnKShqL8N-0" />
+        <mxCell id="Of5p8BdedfkJnKShqL8N-1" parent="Of5p8BdedfkJnKShqL8N-0" />
       </root>
     </mxGraphModel>
   </diagram>
