@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T03:46:47.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="C3vFVJIS5fNg3Fz10B-o" version="15.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-06T06:24:48.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="G3H4xMpzHB_EE7MreB81" version="15.7.4" type="github" pages="4">
   <diagram id="HDeGJqnGRsr33dESraxP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -236,9 +236,6 @@
         <mxCell id="Scul0hxhKXB9jFcs7XXQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="gnqL2LxPWc50CAJyWb9B-3" target="Scul0hxhKXB9jFcs7XXQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oPDq5KXJZwK64brFZXds-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="gnqL2LxPWc50CAJyWb9B-3" target="oPDq5KXJZwK64brFZXds-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gnqL2LxPWc50CAJyWb9B-3" value="释放AOE技能" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="130" y="460" width="120" height="60" as="geometry" />
         </mxCell>
@@ -256,8 +253,14 @@
         <mxCell id="AjMsgvXpJpgqwY4DEuFv-0" value="是否满足条件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="370" y="210" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Njgxn9b4H7hBpgwICBP8-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="Scul0hxhKXB9jFcs7XXQ-0" target="oPDq5KXJZwK64brFZXds-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Scul0hxhKXB9jFcs7XXQ-0" value="一回合预警" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="340" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Njgxn9b4H7hBpgwICBP8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="Scul0hxhKXB9jFcs7XXQ-2" target="oPDq5KXJZwK64brFZXds-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Scul0hxhKXB9jFcs7XXQ-2" value="一回合释放" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="340" y="500" width="90" height="40" as="geometry" />
@@ -294,6 +297,12 @@
       <root>
         <mxCell id="vCL3c7BhjRl6dxUOzG8f-0" />
         <mxCell id="vCL3c7BhjRl6dxUOzG8f-1" parent="vCL3c7BhjRl6dxUOzG8f-0" />
+        <mxCell id="o4WD-XnIBLeW2WW-dC2C-0" value="回合开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vCL3c7BhjRl6dxUOzG8f-1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o4WD-XnIBLeW2WW-dC2C-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="vCL3c7BhjRl6dxUOzG8f-1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
