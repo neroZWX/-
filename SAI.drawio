@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T03:31:54.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="WknupkOMMEFCQvSwQJMp" version="15.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-06T03:39:04.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ifwg26WruaO8Q8egH8iw" version="15.7.4" type="github" pages="3">
   <diagram id="HDeGJqnGRsr33dESraxP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -282,6 +282,9 @@
         </mxCell>
         <mxCell id="oPDq5KXJZwK64brFZXds-2" value="结束回合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="420" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oPDq5KXJZwK64brFZXds-7" value="装甲车普通攻击和AOE技能攻击范围为全图&lt;br&gt;&lt;br&gt;当目标在高掩体正后方时，判定普通攻击不满足条件&lt;br&gt;&lt;br&gt;AOE技能为4*4，当前回合预警，下回合释放，以此循环" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
+          <mxGeometry x="720" y="270" width="260" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
