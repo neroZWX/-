@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T03:39:46.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="g1z8-v8VcINL9YRydhGd" version="15.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-06T03:46:47.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="C3vFVJIS5fNg3Fz10B-o" version="15.7.4" type="github" pages="4">
   <diagram id="HDeGJqnGRsr33dESraxP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Sk25I-t0Xw7xLA637p1q" name="Page-3">
+  <diagram id="Sk25I-t0Xw7xLA637p1q" name="装甲车行为">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="DUfAGoDv2gEzkpex0kgG-0" />
@@ -283,9 +283,17 @@
         <mxCell id="oPDq5KXJZwK64brFZXds-2" value="结束回合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="420" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oPDq5KXJZwK64brFZXds-7" value="装甲车普通攻击和AOE技能攻击范围为全图&lt;br&gt;&lt;br&gt;当目标在高掩体正后方时，判定普通攻击不满足条件，装甲车会尝试寻找不在高掩体后的目标，如都在高掩体后，则不攻击&lt;br&gt;&lt;br&gt;AOE技能为4*4，当前回合预警，下回合释放，以此循环" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
-          <mxGeometry x="720" y="270" width="260" height="280" as="geometry" />
+        <mxCell id="oPDq5KXJZwK64brFZXds-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;1. 装甲车普通攻击和AOE技能攻击范围为全图&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;2. 当目标在高掩体正后方时，判定普通攻击不满足条件，装甲车会尝试寻找不在高掩体后的目标，如都在高掩体后，则会根据AI逻辑攻击一名目标（目标不受伤害，子弹打到高掩体上）&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;AOE技能范围为4*4，当前回合预警，下回合释放，以此循环&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
+          <mxGeometry x="720" y="270" width="410" height="310" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="C9mozxUhVZRL8yGWw9-Q" name="萨曼莎行为">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="vCL3c7BhjRl6dxUOzG8f-0" />
+        <mxCell id="vCL3c7BhjRl6dxUOzG8f-1" parent="vCL3c7BhjRl6dxUOzG8f-0" />
       </root>
     </mxGraphModel>
   </diagram>
