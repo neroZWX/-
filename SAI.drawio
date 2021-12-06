@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T06:44:18.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="MsSJDtdmIpWAIt41EFge" version="15.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-06T07:08:35.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="T49QGDG8RCU7gVKVXjjJ" version="15.7.4" type="github" pages="4">
   <diagram id="HDeGJqnGRsr33dESraxP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -284,7 +284,7 @@
         <mxCell id="oPDq5KXJZwK64brFZXds-2" value="结束回合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="420" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oPDq5KXJZwK64brFZXds-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;1. 装甲车普通攻击和AOE技能攻击范围为全图&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;2. 当目标在高掩体正后方时，判定普通攻击不满足条件，装甲车会尝试寻找不在高掩体后的目标，如都在高掩体后，则会根据AI逻辑攻击一名目标（目标不受伤害，子弹打到高掩体上）&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;AOE技能范围为4*4，当前回合预警，下回合释放，以此循环&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
+        <mxCell id="oPDq5KXJZwK64brFZXds-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;1. 装甲车普通攻击和AOE技能攻击范围为全图&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;2. 当目标在高掩体正后方时，判定普通攻击不满足条件，装甲车会尝试寻找不在高掩体后的目标，如都在高掩体后，则会根据AI逻辑攻击一名目标（目标不受伤害，子弹打到高掩体上）&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;3. AOE技能范围为4*4，当前回合预警，下回合释放，以此循环&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="710" y="130" width="410" height="310" as="geometry" />
         </mxCell>
       </root>
@@ -376,14 +376,20 @@
         <mxCell id="Sf6GmUxEq8mdNS4OFAVK-14" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vCL3c7BhjRl6dxUOzG8f-1">
           <mxGeometry x="250" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sf6GmUxEq8mdNS4OFAVK-16" value="事件：&lt;br&gt;当萨曼莎真身第一次被击杀时，在地图上指定的2个点刷新萨曼莎分身" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="vCL3c7BhjRl6dxUOzG8f-1">
-          <mxGeometry x="700" y="40" width="280" height="120" as="geometry" />
+        <mxCell id="Sf6GmUxEq8mdNS4OFAVK-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;事件&lt;/font&gt;&lt;/b&gt;：&lt;br&gt;当萨曼莎真身第一次被击杀时，在地图上指定的2个点刷新萨曼莎分身,当萨曼莎2个分身被击败时，最终真身出现在地图的指定位置上&lt;br&gt;&lt;br&gt;事件是实时触发" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="vCL3c7BhjRl6dxUOzG8f-1">
+          <mxGeometry x="700" y="40" width="340" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Sf6GmUxEq8mdNS4OFAVK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="vCL3c7BhjRl6dxUOzG8f-1" source="Sf6GmUxEq8mdNS4OFAVK-17" target="o4WD-XnIBLeW2WW-dC2C-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sf6GmUxEq8mdNS4OFAVK-17" value="萨曼莎真身" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vCL3c7BhjRl6dxUOzG8f-1">
           <mxGeometry x="230" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmm4z90xxv6LhMHvZXdi-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;萨曼莎普通攻击范围：4格，4格范围内没有目标则不满足释放普通攻击条件&lt;br&gt;&lt;br&gt;召唤援军：第一次真身萨曼莎会召唤2只援军并从指定点出生，当前回合召唤，援军下回合出来并行动；&lt;br&gt;最终真身会召唤4只援军并从指定点出生&lt;br&gt;&lt;br&gt;召唤援军条件： 1. 场上援军数量少于或等于2只&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2. 技能CD为2回合&lt;br&gt;满足以上2格条件则可释放技能“召唤援军”&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="vCL3c7BhjRl6dxUOzG8f-1">
+          <mxGeometry x="702" y="210" width="368" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ruGNV2ctSyZ1Mr1WWGTm-0" value="&lt;b&gt;萨曼莎分身：&lt;/b&gt;&lt;br&gt;萨曼莎分身没有召唤技能，只有普通攻击" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vCL3c7BhjRl6dxUOzG8f-1">
+          <mxGeometry x="700" y="490" width="210" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
