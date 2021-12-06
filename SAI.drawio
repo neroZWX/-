@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T07:08:35.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="T49QGDG8RCU7gVKVXjjJ" version="15.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-06T09:14:56.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="xjWwhwP65jFnGsmNoVjH" version="15.7.4" type="github" pages="4">
   <diagram id="HDeGJqnGRsr33dESraxP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -219,12 +219,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gnqL2LxPWc50CAJyWb9B-0" value="回合开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
-          <mxGeometry x="370" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AjMsgvXpJpgqwY4DEuFv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="gnqL2LxPWc50CAJyWb9B-1" target="AjMsgvXpJpgqwY4DEuFv-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gnqL2LxPWc50CAJyWb9B-1" value="释放普通攻击" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
+        <mxCell id="gnqL2LxPWc50CAJyWb9B-1" value="使用普通攻击" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Scul0hxhKXB9jFcs7XXQ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="gnqL2LxPWc50CAJyWb9B-3" target="Scul0hxhKXB9jFcs7XXQ-0">
@@ -233,7 +233,7 @@
         <mxCell id="Scul0hxhKXB9jFcs7XXQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="gnqL2LxPWc50CAJyWb9B-3" target="Scul0hxhKXB9jFcs7XXQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gnqL2LxPWc50CAJyWb9B-3" value="释放AOE技能" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
+        <mxCell id="gnqL2LxPWc50CAJyWb9B-3" value="使用AOE技能" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="130" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rzr80gfpr4Y_q0rzi_zG-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="AjMsgvXpJpgqwY4DEuFv-0" target="rzr80gfpr4Y_q0rzi_zG-0">
@@ -254,13 +254,13 @@
         <mxCell id="Njgxn9b4H7hBpgwICBP8-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="Scul0hxhKXB9jFcs7XXQ-0" target="oPDq5KXJZwK64brFZXds-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Scul0hxhKXB9jFcs7XXQ-0" value="一回合预警" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
+        <mxCell id="Scul0hxhKXB9jFcs7XXQ-0" value="预警" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="340" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Njgxn9b4H7hBpgwICBP8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="Scul0hxhKXB9jFcs7XXQ-2" target="oPDq5KXJZwK64brFZXds-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Scul0hxhKXB9jFcs7XXQ-2" value="一回合释放" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
+        <mxCell id="Scul0hxhKXB9jFcs7XXQ-2" value="释放" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="340" y="500" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rzr80gfpr4Y_q0rzi_zG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="rzr80gfpr4Y_q0rzi_zG-0" target="gnqL2LxPWc50CAJyWb9B-3">
@@ -284,8 +284,17 @@
         <mxCell id="oPDq5KXJZwK64brFZXds-2" value="结束回合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="420" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oPDq5KXJZwK64brFZXds-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;1. 装甲车普通攻击和AOE技能攻击范围为全图&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;2. 当目标在高掩体正后方时，判定普通攻击不满足条件，装甲车会尝试寻找不在高掩体后的目标，如都在高掩体后，则会根据AI逻辑攻击一名目标（目标不受伤害，子弹打到高掩体上）&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;3. AOE技能范围为4*4，当前回合预警，下回合释放，以此循环&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
+        <mxCell id="oPDq5KXJZwK64brFZXds-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;1. 装甲车普通攻击范围为10格，AOE技能攻击范围为12格&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;2. 当目标在高掩体正后方时，判定普通攻击不满足条件，装甲车会尝试寻找不在高掩体后的目标，如都在高掩体后，则会根据AI逻辑攻击一名目标（目标不受伤害，子弹打到高掩体上）&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;3. AOE技能范围为4*4，当前回合预警，下回合释放，以此循环&lt;br&gt;&lt;br&gt;当装甲车使用AOE技能触发预警时，它会转身并让炮口朝着目标点，目标点地格上出现4*4预警图标；&lt;br&gt;&lt;br&gt;当AOE技能释放时，装甲车播放炮台攻击动画&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
           <mxGeometry x="710" y="130" width="410" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="eILXN1hE9pIqJVTuz3gP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="DUfAGoDv2gEzkpex0kgG-1" source="eILXN1hE9pIqJVTuz3gP-0" target="gnqL2LxPWc50CAJyWb9B-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eILXN1hE9pIqJVTuz3gP-0" value="装甲车" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
+          <mxGeometry x="350" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CG4RnzEtsqN8zkQpChms-0" value="或" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DUfAGoDv2gEzkpex0kgG-1">
+          <mxGeometry x="240" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
