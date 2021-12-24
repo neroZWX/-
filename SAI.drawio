@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T08:04:23.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QpfYtigwi3GpobL5NdOX" version="15.9.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-12-24T08:20:28.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-2rz6rjZyUpSKVzrrRas" version="15.9.1" type="github" pages="6">
   <diagram id="HDeGJqnGRsr33dESraxP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -510,6 +510,9 @@
         </mxCell>
         <mxCell id="MbCTXR0oA7tk9-k8mMYJ-18" value="读取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
           <mxGeometry x="350" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-21" value="旋转视角：当进行视角旋转时，只会改变Cam_freekLook.transform.rotation中的Y值（Cam_freeLookBirdeye.rotation）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="230" y="520" width="250" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
