@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T12:38:13.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nA7vyBb54sLEUuNpoWHJ" version="15.9.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-12-27T03:47:15.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="L76nTrr3-yIPUZ_PbRCE" version="16.0.3" type="github" pages="6">
   <diagram id="HDeGJqnGRsr33dESraxP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -452,19 +452,19 @@
       <root>
         <mxCell id="MbCTXR0oA7tk9-k8mMYJ-0" />
         <mxCell id="MbCTXR0oA7tk9-k8mMYJ-1" parent="MbCTXR0oA7tk9-k8mMYJ-0" />
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.025;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="MbCTXR0oA7tk9-k8mMYJ-1" source="MbCTXR0oA7tk9-k8mMYJ-2" target="MbCTXR0oA7tk9-k8mMYJ-9">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.025;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="MbCTXR0oA7tk9-k8mMYJ-1" source="MbCTXR0oA7tk9-k8mMYJ-2" target="MbCTXR0oA7tk9-k8mMYJ-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-2" value="cam_FreeLook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-2" value="FreeLook" style="rounded=0;whiteSpace=wrap;html=1;" parent="MbCTXR0oA7tk9-k8mMYJ-1" vertex="1">
           <mxGeometry x="100" y="220" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="MbCTXR0oA7tk9-k8mMYJ-1" source="MbCTXR0oA7tk9-k8mMYJ-3" target="MbCTXR0oA7tk9-k8mMYJ-12">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="MbCTXR0oA7tk9-k8mMYJ-1" source="MbCTXR0oA7tk9-k8mMYJ-3" target="MbCTXR0oA7tk9-k8mMYJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-3" value="cam_FreeLookBirdeye" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-3" value="FreeLookBirdeye" style="rounded=0;whiteSpace=wrap;html=1;" parent="MbCTXR0oA7tk9-k8mMYJ-1" vertex="1">
           <mxGeometry x="100" y="390" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="MbCTXR0oA7tk9-k8mMYJ-1" source="MbCTXR0oA7tk9-k8mMYJ-2" target="MbCTXR0oA7tk9-k8mMYJ-3">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="MbCTXR0oA7tk9-k8mMYJ-1" source="MbCTXR0oA7tk9-k8mMYJ-2" target="MbCTXR0oA7tk9-k8mMYJ-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="340" as="sourcePoint" />
             <mxPoint x="120" y="420" as="targetPoint" />
@@ -474,44 +474,44 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.6;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.607;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="MbCTXR0oA7tk9-k8mMYJ-1" source="MbCTXR0oA7tk9-k8mMYJ-3" target="MbCTXR0oA7tk9-k8mMYJ-2">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.6;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.607;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" parent="MbCTXR0oA7tk9-k8mMYJ-1" source="MbCTXR0oA7tk9-k8mMYJ-3" target="MbCTXR0oA7tk9-k8mMYJ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="380" as="sourcePoint" />
             <mxPoint x="180" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-7" value="FreeLook参数" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-7" value="FreeLook参数" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="MbCTXR0oA7tk9-k8mMYJ-1" vertex="1">
           <mxGeometry x="540" y="200" width="280" height="100" as="geometry">
             <mxRectangle x="540" y="200" width="120" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-8" value="container.boxCollider（每关参数不一样）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-7">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-8" value="container.boxCollider（每关参数不一样）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="MbCTXR0oA7tk9-k8mMYJ-7" vertex="1">
           <mxGeometry y="26" width="280" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-9" value="cam_freeLook.transform（每关参数一样）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-7">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-9" value="cam_freeLook.transform（每关参数一样）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="MbCTXR0oA7tk9-k8mMYJ-7" vertex="1">
           <mxGeometry y="52" width="280" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-11" value="FreeLookBirdeye参数" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-11" value="FreeLookBirdeye参数" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="MbCTXR0oA7tk9-k8mMYJ-1" vertex="1">
           <mxGeometry x="520" y="370" width="330" height="118" as="geometry">
             <mxRectangle x="520" y="370" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-12" value="containerbirdeye.boxCollider(每一关对应的containerBirdeye&#xa;参数不一样，有Birdeye1,birdeye2,bird3)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-11">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-12" value="containerbirdeye.boxCollider(每一关对应的containerBirdeye&#xa;参数不一样，有Birdeye1,birdeye2,bird3)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="MbCTXR0oA7tk9-k8mMYJ-11" vertex="1">
           <mxGeometry y="26" width="330" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-13" value="cam_freeLookBirdeye.transform(每关参数一样)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-11">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-13" value="cam_freeLookBirdeye.transform(每关参数一样)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="MbCTXR0oA7tk9-k8mMYJ-11" vertex="1">
           <mxGeometry y="70" width="330" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-16" value="视角切换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-16" value="视角切换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MbCTXR0oA7tk9-k8mMYJ-1" vertex="1">
           <mxGeometry x="70" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-17" value="读取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-17" value="读取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MbCTXR0oA7tk9-k8mMYJ-1" vertex="1">
           <mxGeometry x="350" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-18" value="读取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-18" value="读取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MbCTXR0oA7tk9-k8mMYJ-1" vertex="1">
           <mxGeometry x="350" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-21" value="旋转视角：当进行视角旋转时，只会改变Cam_freekLook.transform.rotation中的Y值（Cam_freeLookBirdeye.rotation）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+        <mxCell id="MbCTXR0oA7tk9-k8mMYJ-21" value="旋转视角：当进行视角旋转时，只会改变Cam_freekLook.transform.rotation中的Y值（Cam_freeLookBirdeye.rotation）" style="rounded=0;whiteSpace=wrap;html=1;" parent="MbCTXR0oA7tk9-k8mMYJ-1" vertex="1">
           <mxGeometry x="230" y="520" width="250" height="140" as="geometry" />
         </mxCell>
       </root>
