@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T03:47:15.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="L76nTrr3-yIPUZ_PbRCE" version="16.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-12-28T10:58:36.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="u_nMa-uQh40aDW2tiGn9" version="16.0.3" type="github" pages="6">
   <diagram id="HDeGJqnGRsr33dESraxP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -513,6 +513,90 @@
         </mxCell>
         <mxCell id="MbCTXR0oA7tk9-k8mMYJ-21" value="旋转视角：当进行视角旋转时，只会改变Cam_freekLook.transform.rotation中的Y值（Cam_freeLookBirdeye.rotation）" style="rounded=0;whiteSpace=wrap;html=1;" parent="MbCTXR0oA7tk9-k8mMYJ-1" vertex="1">
           <mxGeometry x="230" y="520" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-2" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="420" y="860" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="MbCTXR0oA7tk9-k8mMYJ-1" source="1NTFXkqbu18hi1yNI5yW-2" target="1NTFXkqbu18hi1yNI5yW-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="960" as="sourcePoint" />
+            <mxPoint x="490" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.012;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MbCTXR0oA7tk9-k8mMYJ-1" target="1NTFXkqbu18hi1yNI5yW-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="863" as="sourcePoint" />
+            <mxPoint x="400" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.012;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285.96" y="1009" as="sourcePoint" />
+            <mxPoint x="424.0399999999999" y="1009" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-7" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="260" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-9" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="260" y="990" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-10" value="施法者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="240" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-11" value="受击者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="240" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-12" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="230" y="860" width="40" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-13" value="施法者与受击者距离15" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="160" y="920" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-14" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="400" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-16" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="400" y="990" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-17" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="560" y="915" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-18" value="&lt;b&gt;A&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="390" y="827" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-19" value="&lt;b&gt;B&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="390" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-20" value="&lt;b&gt;C点，镜头最&lt;br&gt;终拉伸位置点&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="560" y="890" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-21" value="镜头默认高度15" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="290" y="870" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-22" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="400" y="915" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-23" value="施法者与受击者中心点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="330" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-26" value="&lt;b&gt;D&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="370" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;a=15&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="450" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;b=7.5&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="370" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-31" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;c=√(a²+b²)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="470" y="980" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-32" value="施法者默认镜头高度点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="370" y="800" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NTFXkqbu18hi1yNI5yW-33" value="受击者默认镜头高度点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MbCTXR0oA7tk9-k8mMYJ-1">
+          <mxGeometry x="380" y="1050" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
