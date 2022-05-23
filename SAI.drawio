@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T09:36:27.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="IS8-CkUjU2H5PUMeYWG9" version="18.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-23T09:44:37.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="8p0lO6OkDUXiPaxZ3s-w" version="18.1.1" type="github" pages="7">
   <diagram id="HDeGJqnGRsr33dESraxP" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -612,7 +612,7 @@
         <mxCell id="hQxujmCN4Kff00G7luGK-1" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;选择一个仇恨分数最高的为攻击目标&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-64" y="64" width="208" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="hQxujmCN4Kff00G7luGK-2" value="&lt;span&gt;选择一个技能&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hQxujmCN4Kff00G7luGK-2" value="&lt;span&gt;选择技能&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="272" y="64" width="208" height="92" as="geometry" />
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-3" value="&lt;span&gt;选择一个攻击位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -626,7 +626,7 @@
         <mxCell id="hQxujmCN4Kff00G7luGK-6" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;根据仇恨值分数计算&lt;br&gt;具体分数计算规则和配置在“Jobrelation”&lt;br&gt;表中&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="hQxujmCN4Kff00G7luGK-4">
           <mxGeometry x="-12" y="24" width="288" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="hQxujmCN4Kff00G7luGK-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;是否能攻击到已选择的目标&lt;br&gt;（如为AOE技能判断&lt;br&gt;是否能攻击到2名&lt;br&gt;及以上目标）&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="hQxujmCN4Kff00G7luGK-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;是否能攻击到已选择的目标&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="576" y="16" width="208" height="190" as="geometry" />
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="h0I8rscYLPMd9gw6ceE9-1" target="hQxujmCN4Kff00G7luGK-1">
@@ -674,34 +674,34 @@
             <mxPoint x="331" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hQxujmCN4Kff00G7luGK-25" value="&lt;span&gt;选择一个技能&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-496" y="592" width="208" height="92" as="geometry" />
+        <mxCell id="hQxujmCN4Kff00G7luGK-25" value="&lt;span&gt;选择技能逻辑&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-544" y="505" width="208" height="92" as="geometry" />
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-26" value="是否有AOE技能" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-144" y="574" width="160" height="128" as="geometry" />
+          <mxGeometry x="-192" y="487" width="160" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="hQxujmCN4Kff00G7luGK-27" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;是否能攻击到2名及以上目标&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="160" y="567" width="192" height="142" as="geometry" />
+        <mxCell id="hQxujmCN4Kff00G7luGK-27" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;是否能攻击到2名及以上目标&lt;br&gt;（主目标为必须为已选出&lt;br&gt;来的攻击目标）&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="112" y="480" width="192" height="142" as="geometry" />
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;完成技能筛选&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="436" y="816" width="200" height="126" as="geometry" />
+          <mxGeometry x="388" y="729" width="200" height="126" as="geometry" />
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-30" value="是否有单体技能" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-144" y="800" width="160" height="128" as="geometry" />
+          <mxGeometry x="-192" y="713" width="160" height="128" as="geometry" />
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-32" value="是否有普攻技能" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-144" y="1024" width="160" height="128" as="geometry" />
+          <mxGeometry x="-192" y="937" width="160" height="128" as="geometry" />
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="hQxujmCN4Kff00G7luGK-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-288" y="640" as="sourcePoint" />
-            <mxPoint x="-188" y="640" as="targetPoint" />
+            <mxPoint x="-336" y="553" as="sourcePoint" />
+            <mxPoint x="-236" y="553" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="16" y="639" as="sourcePoint" />
-            <mxPoint x="160" y="637" as="targetPoint" />
+            <mxPoint x="-32" y="552" as="sourcePoint" />
+            <mxPoint x="112" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-37" value="是" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;" connectable="0" vertex="1" parent="hQxujmCN4Kff00G7luGK-36">
@@ -709,10 +709,10 @@
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hQxujmCN4Kff00G7luGK-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="352" y="639" as="sourcePoint" />
-            <mxPoint x="496" y="637" as="targetPoint" />
+            <mxPoint x="304" y="552" as="sourcePoint" />
+            <mxPoint x="448" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="536" y="640" />
+              <mxPoint x="488" y="553" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -723,11 +723,11 @@
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="256" y="709" as="sourcePoint" />
-            <mxPoint x="-5.8181818181819835" y="844.5454545454545" as="targetPoint" />
+            <mxPoint x="208" y="622" as="sourcePoint" />
+            <mxPoint x="-53.81818181818198" y="757.5454545454545" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="256" y="736" />
-              <mxPoint x="256" y="766" />
+              <mxPoint x="208" y="649" />
+              <mxPoint x="208" y="679" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -738,8 +738,8 @@
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hQxujmCN4Kff00G7luGK-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-64" y="704" as="sourcePoint" />
-            <mxPoint x="80" y="702" as="targetPoint" />
+            <mxPoint x="-112" y="617" as="sourcePoint" />
+            <mxPoint x="32" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-43" value="否" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;" connectable="0" vertex="1" parent="hQxujmCN4Kff00G7luGK-42">
@@ -747,8 +747,8 @@
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-44" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-65" y="928" as="sourcePoint" />
-            <mxPoint x="-65" y="1024" as="targetPoint" />
+            <mxPoint x="-113" y="841" as="sourcePoint" />
+            <mxPoint x="-113" y="937" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-45" value="否" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;" connectable="0" vertex="1" parent="hQxujmCN4Kff00G7luGK-44">
@@ -756,8 +756,8 @@
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-46" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=2;entryX=0.005;entryY=0.373;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hQxujmCN4Kff00G7luGK-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="16" y="865" as="sourcePoint" />
-            <mxPoint x="160" y="863" as="targetPoint" />
+            <mxPoint x="-32" y="778" as="sourcePoint" />
+            <mxPoint x="112" y="776" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-47" value="是" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;" connectable="0" vertex="1" parent="hQxujmCN4Kff00G7luGK-46">
@@ -767,10 +767,10 @@
         </mxCell>
         <mxCell id="hQxujmCN4Kff00G7luGK-48" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="16" y="1087" as="sourcePoint" />
-            <mxPoint x="545" y="942" as="targetPoint" />
+            <mxPoint x="-32" y="1000" as="sourcePoint" />
+            <mxPoint x="497" y="855" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="544" y="1087" />
+              <mxPoint x="496" y="1000" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -778,6 +778,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-289" y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hQxujmCN4Kff00G7luGK-61" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-192" width="264" height="144" as="geometry">
+            <mxRectangle x="-400" y="304" width="80" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQxujmCN4Kff00G7luGK-62" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;看下图选择技能逻辑&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="hQxujmCN4Kff00G7luGK-61">
+          <mxGeometry x="60" y="40" width="144" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
